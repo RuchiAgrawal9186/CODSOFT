@@ -10,7 +10,7 @@ demo link - https://portfolio-puce-delta-99.vercel.app/
 
 # Task 2 - Landing Page
 
-demo link - 
+demo link - https://landing-page-omega-eight-79.vercel.app/
 
 # Task 3 - Calculator
 
